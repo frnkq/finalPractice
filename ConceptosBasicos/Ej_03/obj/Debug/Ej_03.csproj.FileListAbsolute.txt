@@ -1,0 +1,5 @@
+C:\Users\franco.e.canevali\Desktop\utn\ConceptosBasicos\Ej_03\bin\Debug\Ej_03.exe.config
+C:\Users\franco.e.canevali\Desktop\utn\ConceptosBasicos\Ej_03\bin\Debug\Ej_03.exe
+C:\Users\franco.e.canevali\Desktop\utn\ConceptosBasicos\Ej_03\bin\Debug\Ej_03.pdb
+C:\Users\franco.e.canevali\Desktop\utn\ConceptosBasicos\Ej_03\obj\Debug\Ej_03.exe
+C:\Users\franco.e.canevali\Desktop\utn\ConceptosBasicos\Ej_03\obj\Debug\Ej_03.pdb

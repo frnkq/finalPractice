@@ -1,0 +1,6 @@
+C:\Users\franco.e.canevali\Desktop\utn\ConceptosBasicos\Ej_06\bin\Debug\Ej_06.exe.config
+C:\Users\franco.e.canevali\Desktop\utn\ConceptosBasicos\Ej_06\bin\Debug\Ej_06.exe
+C:\Users\franco.e.canevali\Desktop\utn\ConceptosBasicos\Ej_06\bin\Debug\Ej_06.pdb
+C:\Users\franco.e.canevali\Desktop\utn\ConceptosBasicos\Ej_06\obj\Debug\Ej_06.exe
+C:\Users\franco.e.canevali\Desktop\utn\ConceptosBasicos\Ej_06\obj\Debug\Ej_06.pdb
+C:\Users\franco.e.canevali\Desktop\utn\ConceptosBasicos\Ej_06\obj\Debug\Ej_06.csprojResolveAssemblyReference.cache
